@@ -1,0 +1,11 @@
+sort1 uses: bubble sort
+
+How do you know?: for the reversed order files,the function plotted clearly showed O(n^2) and for the sorted files the times taken showed a directly proportional relationship.
+
+sort2 uses: merge sort
+
+How do you know?: plotted the ponits on a graph for the random and reversed files, both showed a logrithmic curve.
+
+sort3 uses: selection sort
+
+How do you know?: when considering the the reversed and sorted fies running times, the times taken for the reversed files were nearly identical to the running times of the respective sorting times.
